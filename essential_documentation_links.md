@@ -7,6 +7,7 @@
 - Databricks SQL — https://docs.databricks.com/sql/index.html
 - Delta Lake — https://docs.delta.io/latest/index.html
 - Unity Catalog — https://docs.databricks.com/data-governance/unity-catalog/index.html
+- Lakeflow Spark Declarative Pipelines - https://docs.databricks.com/aws/en/ldp/
 
 ## ⚡ Apache Spark
 
