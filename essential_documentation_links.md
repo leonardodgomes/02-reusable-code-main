@@ -43,4 +43,8 @@
 - Power BI Documentation — https://learn.microsoft.com/power-bi/
 - DAX Reference — https://learn.microsoft.com/dax/
 - Power Query M Reference — https://learn.microsoft.com/powerquery-m/
-- Power BI REST API — https://learn.microsoft.com/rest/api/power-bi/ 
+- Power BI REST API — https://learn.microsoft.com/rest/api/power-bi/
+
+## Utils
+
+- Regex - https://regex101.com/
